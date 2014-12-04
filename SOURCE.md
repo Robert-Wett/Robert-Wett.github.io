@@ -81,14 +81,14 @@ As seen on [blockspring](https://api.blockspring.com/robert-wett/319bfef4aad7f34
 ###[EphemeralPhoto](https://github.com/Robert-Wett/ephemeralphoto)
 #####Web-App that allows users to upload images, and denote the exact time the file will be un-hosted and the file deleted.
  - Node.js + Express
-<br>
+
 ###[ManicPixieDreamQuote](https://github.com/Robert-Wett/ManicPixieDreamQuote)
 #####Web-app that satirized the [Manic Pixie Dream Girl](http://tvtropes.org/pmwiki/pmwiki.php/Main/ManicPixieDreamGirl) trope using actual quotes from Tinder. This app was primarily done to get practice using **MongoDB** + **Redis**. The original (POC) version can be seen [here](http://blooming-stream-5857.herokuapp.com).
  - Node.js + Express
-<br>
+
 ###[ng-subredditviewer](https://github.com/Robert-Wett/ng-subredditviewer)
 #####Just pulling the jsonp results from a specified subreddit and displaying the top level entries as links. You can add comments on each of the entries, but there's no backend persistence so they'll be wiped out on refresh. This was a project to re-fresh my **Angular.js** skills. Check out the [bl.ocks.org](http://bl.ocks.org/Robert-Wett/27fad6eb3e74ba7c83ef) display to give it a try.
  - Angular
-<br>
+
 ###[String To Comment](https://github.com/Robert-Wett/StringToComment)
 #####Sublime Text 2 Plugin. StringToComment allows you to highlight a string and convert it into an 80-char delimited block comment in the language currently set in the view.
