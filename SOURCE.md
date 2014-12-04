@@ -62,8 +62,6 @@ As seen on [blockspring](https://api.blockspring.com/users/robert-wett/blocks/24
  - Ruby
  - ActionScript 3
  
-
-
 ----------
 ##Fun/Learning
  > Here are the projects that I did for the sole purpose (well, all my projects are for learning) of learning a specific technology or concept.
