@@ -6,6 +6,7 @@
  - Node.js
  - Firebase + SQLite
  - Angular
+
 ----------
 
 ##Completed'ish Stuff
@@ -64,20 +65,19 @@ As seen on [blockspring](https://api.blockspring.com/users/robert-wett/blocks/24
 
 
 ----------
-##In-Progress/Experiments
+##Fun/Learning
  > Here are the projects that I did for the sole purpose (well, all my projects are for learning) of learning a specific technology or concept.
 
-<br>
 ###[Tinder Keyword Swiper](https://github.com/Robert-Wett/TinderKeywordSwiper)
 #####Automate tinder swiping behavior in a smarter way by defining positive and negative keywords (and subsequent weights for each) and swiping left or right based on matches. This relies on using [clarafai's](http://clarifai.com/) image recognition API, and only the POC has been built as of now.
-<br>
+
 ###[GraphJS](https://github.com/Robert-Wett/GraphJS)
 #####Working through graph-related CS problems in JavaScript. Algorithms are (somewhat loosely) transcribed from the Python code in  `Problem Solving with Algorithms and Data Structures`.
-<br>
+
 ###[PyBraille](https://github.com/Robert-Wett/PyBraille)
 As seen on [blockspring](https://api.blockspring.com/robert-wett/319bfef4aad7f3477745048a2da3ae6a).
 #####Reads in a string and converts it into 2x3 delimited Braille characters (using standard English Braille). This was an experiment to learn more about using python in a more object-oriented, re-usable manner that one would expect from a command-line utility. This was based on my [DailyProgrammer solution](https://github.com/Robert-Wett/dailyprogrammer/blob/master/143_Braille.py).
-<br>
+
 ###[EphemeralPhoto](https://github.com/Robert-Wett/ephemeralphoto)
 #####Web-App that allows users to upload images, and denote the exact time the file will be un-hosted and the file deleted.
  - Node.js + Express
